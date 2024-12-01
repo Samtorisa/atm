@@ -1,0 +1,7 @@
+C:\Users\samet\source\repos\bankApp\bankApp\bin\Debug\bankApp.exe.config
+C:\Users\samet\source\repos\bankApp\bankApp\bin\Debug\bankApp.exe
+C:\Users\samet\source\repos\bankApp\bankApp\bin\Debug\bankApp.pdb
+C:\Users\samet\source\repos\bankApp\bankApp\obj\Debug\bankApp.csproj.AssemblyReference.cache
+C:\Users\samet\source\repos\bankApp\bankApp\obj\Debug\bankApp.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\bankApp\bankApp\obj\Debug\bankApp.exe
+C:\Users\samet\source\repos\bankApp\bankApp\obj\Debug\bankApp.pdb
